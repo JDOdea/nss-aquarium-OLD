@@ -21,11 +21,5 @@ const database = {
             food: "crustaceans",
             size: 3
         },
-        {
-            id: 2,
-            name: "Frederick",
-            food: "compliments",
-            size: 5
-        }
     ]
 }
